@@ -12,6 +12,8 @@
         <module>proxy</module>
         <module>strategy</module>
         <module>delegate</module>
+        <module>template</module>
+        <module>adapter</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
